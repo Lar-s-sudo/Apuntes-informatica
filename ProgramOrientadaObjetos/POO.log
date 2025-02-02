@@ -1,0 +1,1131 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.12.6)  2 FEB 2025 08:55
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**POO.tex
+(./POO.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen141
+))
+(/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen142
+)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count196
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count197
+\leftroot@=\count198
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count199
+\DOTSCASE@=\count266
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen143
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count267
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count268
+\dotsspace@=\muskip16
+\c@parentequation=\count269
+\dspbrk@lvl=\count270
+\tag@help=\toks20
+\row@=\count271
+\column@=\count272
+\maxfields@=\count273
+\andhelp@=\toks21
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
+\@envbody=\toks22
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+)
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count274
+\Gm@cntv=\count275
+\c@Gm@tempcnt=\count276
+\Gm@bindingoffset=\dimen152
+\Gm@wd@mp=\dimen153
+\Gm@odd@mp=\dimen154
+\Gm@even@mp=\dimen155
+\Gm@layoutwidth=\dimen156
+\Gm@layoutheight=\dimen157
+\Gm@layouthoffset=\dimen158
+\Gm@layoutvoffset=\dimen159
+\Gm@dimlist=\toks25
+)
+(/usr/share/texmf-dist/tex/latex/musixtex/musixtex.sty
+(/usr/share/texmf-dist/tex/generic/musixtex/musixtex.tex
+MusiXTeX(c) 1.37 <2023-10-07>
+\n@i=\count277
+\n@ii=\count278
+\n@iii=\count279
+\n@iv=\count280
+\n@v=\count281
+\n@vi=\count282
+\n@vii=\count283
+\n@viii=\count284
+\count@=\count285
+\toks@box=\box53
+\w@rkbox=\box54
+\n@otebox=\box55
+\y@=\dimen160
+\y@i=\dimen161
+\y@ii=\dimen162
+\y@iii=\dimen163
+\y@iv=\dimen164
+\y@v=\dimen165
+\group@no=\count286
+\interinstrument=\dimen166
+\N@s=\count287
+\s@Y=\dimen167
+\lin@pos=\dimen168
+\meet@minus@n@iv=\count288
+\interbeam=\dimen169
+\b@amthick=\dimen170
+\Interligne=\dimen171
+\Internote=\dimen172
+\ch@box=\box56
+\musicsize=\count289
+\qd@skip=\dimen173
+\qn@width=\dimen174
+\wn@width=\dimen175
+\txt@ff=\skip53
+\s@indent=\skip54
+\big@spc=\skip55
+\lthick=\dimen176
+\afterruleskip=\skip56
+\staffbotmarg=\dimen177
+\stafftopmarg=\dimen178
+\line@width=\dimen179
+\interportee=\dimen180
+\noport@@=\count290
+\noinstrum@nt=\count291
+\altportee=\dimen181
+\systemheight=\dimen182
+\altplancher=\dimen183
+\instrum@in@group=\skip57
+\boxitsep=\skip58
+\barsinpi@c@=\count292
+\barno=\count293
+\startbarno=\count294
+\sign@skip=\dimen184
+\maxsign@skip=\dimen185
+\x@skip=\dimen186
+\n@skip=\dimen187
+\beforeruleskip=\skip59
+\widthtyp@=\count295
+\lastbarno=\count296
+\cut@v=\skip60
+\init@volta@pos=\skip61
+\volta@startcor=\skip62
+\volta@endcor=\skip63
+\writ@volta@box=\box57
+\barsinlin@=\count297
+\maxbarsinlin@=\count298
+\lastbarpos=\skip64
+\ut@ref=\count299
+\meterskip=\skip65
+\t@c=\toks26
+\clef@skip=\skip66
+\noteskip=\dimen188
+\transpose=\count300
+\normaltranspose=\count301
+\locx@skip=\dimen189
+\elemskip=\dimen190
+\@l@mskip=\dimen191
+\inh@alt=\count302
+\st@bot=\dimen192
+\st@top=\dimen193
+\stem@skip=\dimen194
+\s@lope=\dimen195
+\y@vi=\dimen196
+\lift@rest=\dimen197
+\accshift=\skip67
+\@icresc=\skip68
+\pdl@pos=\dimen198
+\bigwedgebox=\box58
+\@itrillei=\skip69
+\@itrilleii=\skip70
+\@itrilleiii=\skip71
+\@itrilleiv=\skip72
+\@itrillev=\skip73
+\@itrillevi=\skip74
+\tr@number=\count303
+\tr@nspose=\count304
+\o@swz=\toks27
+\o@number=\count305
+\y@vii=\dimen199
+\y@viii=\dimen256
+\y@ix=\dimen257
+\tuptxtb@x=\box59
+\notes@open=\count306
+\k@ii=\skip75
+\i@ni=\dimen258
+\b@xi=\dimen259
+\b@zi=\dimen260
+\c@xi=\dimen261
+\c@zi=\skip76
+\d@xi=\dimen262
+\d@zi=\skip77
+\e@xi=\dimen263
+\e@zi=\skip78
+\b@pi=\count307
+\b@ni=\count308
+\n@pi=\count309
+\a@si=\count310
+\o@si=\count311
+\a@ci=\toks28
+\o@ci=\toks29
+\m@ti=\toks30
+\k@iii=\skip79
+\i@nii=\dimen264
+\b@xii=\dimen265
+\b@zii=\dimen266
+\c@xii=\dimen267
+\c@zii=\skip80
+\d@xii=\dimen268
+\d@zii=\skip81
+\e@xii=\dimen269
+\e@zii=\skip82
+\b@pii=\count312
+\b@nii=\count313
+\n@pii=\count314
+\a@sii=\count315
+\o@sii=\count316
+\a@cii=\toks31
+\o@cii=\toks32
+\m@tii=\toks33
+\k@iiii=\skip83
+\i@niii=\dimen270
+\b@xiii=\dimen271
+\b@ziii=\dimen272
+\c@xiii=\dimen273
+\c@ziii=\skip84
+\d@xiii=\dimen274
+\d@ziii=\skip85
+\e@xiii=\dimen275
+\e@ziii=\skip86
+\b@piii=\count317
+\b@niii=\count318
+\n@piii=\count319
+\a@siii=\count320
+\o@siii=\count321
+\a@ciii=\toks34
+\o@ciii=\toks35
+\m@tiii=\toks36
+\k@iiv=\skip87
+\i@niv=\dimen276
+\b@xiv=\dimen277
+\b@ziv=\dimen278
+\c@xiv=\dimen279
+\c@ziv=\skip88
+\d@xiv=\dimen280
+\d@ziv=\skip89
+\e@xiv=\dimen281
+\e@ziv=\skip90
+\b@piv=\count322
+\b@niv=\count323
+\n@piv=\count324
+\a@siv=\count325
+\o@siv=\count326
+\a@civ=\toks37
+\o@civ=\toks38
+\m@tiv=\toks39
+\k@iv=\skip91
+\i@nv=\dimen282
+\b@xv=\dimen283
+\b@zv=\dimen284
+\c@xv=\dimen285
+\c@zv=\skip92
+\d@xv=\dimen286
+\d@zv=\skip93
+\e@xv=\dimen287
+\e@zv=\skip94
+\b@pv=\count327
+\b@nv=\count328
+\n@pv=\count329
+\a@sv=\count330
+\o@sv=\count331
+\a@cv=\toks40
+\o@cv=\toks41
+\m@tv=\toks42
+\k@ivi=\skip95
+\i@nvi=\dimen288
+\b@xvi=\dimen289
+\b@zvi=\dimen290
+\c@xvi=\dimen291
+\c@zvi=\skip96
+\d@xvi=\dimen292
+\d@zvi=\skip97
+\e@xvi=\dimen293
+\e@zvi=\skip98
+\b@pvi=\count332
+\b@nvi=\count333
+\n@pvi=\count334
+\a@svi=\count335
+\o@svi=\count336
+\a@cvi=\toks43
+\o@cvi=\toks44
+\m@tvi=\toks45
+maxinstruments=6
+\f@xi=\dimen294
+\f@zi=\skip99
+\f@xii=\dimen295
+\f@zii=\skip100
+\f@xiii=\dimen296
+\f@ziii=\skip101
+\f@xiv=\dimen297
+\f@ziv=\skip102
+\f@xv=\dimen298
+\f@zv=\skip103
+\f@xvi=\dimen299
+\f@zvi=\skip104
+ max128beams=6
+\g@bi=\skip105
+\g@hi=\skip106
+\g@bii=\skip107
+\g@hii=\skip108
+\g@biii=\skip109
+\g@hiii=\skip110
+ maxgroups=3
+\s@xi=\dimen300
+\s@si=\toks46
+\s@Yi=\dimen301
+\s@ai=\skip111
+\s@yi=\count337
+\s@Ni=\count338
+\s@zi=\count339
+\s@di=\toks47
+\s@xii=\dimen302
+\s@sii=\toks48
+\s@Yii=\dimen303
+\s@aii=\skip112
+\s@yii=\count340
+\s@Nii=\count341
+\s@zii=\count342
+\s@dii=\toks49
+\s@xiii=\dimen304
+\s@siii=\toks50
+\s@Yiii=\dimen305
+\s@aiii=\skip113
+\s@yiii=\count343
+\s@Niii=\count344
+\s@ziii=\count345
+\s@diii=\toks51
+\s@xiv=\dimen306
+\s@siv=\toks52
+\s@Yiv=\dimen307
+\s@aiv=\skip114
+\s@yiv=\count346
+\s@Niv=\count347
+\s@ziv=\count348
+\s@div=\toks53
+\s@xv=\dimen308
+\s@sv=\toks54
+\s@Yv=\dimen309
+\s@av=\skip115
+\s@yv=\count349
+\s@Nv=\count350
+\s@zv=\count351
+\s@dv=\toks55
+\s@xvi=\dimen310
+\s@svi=\toks56
+\s@Yvi=\dimen311
+\s@avi=\skip116
+\s@yvi=\count352
+\s@Nvi=\count353
+\s@zvi=\count354
+\s@dvi=\toks57
+ maxslurs=6
+\tr@xi=\skip117
+\tr@swi=\toks58
+\tr@yi=\skip118
+\tr@xii=\skip119
+\tr@swii=\toks59
+\tr@yii=\skip120
+\tr@xiii=\skip121
+\tr@swiii=\toks60
+\tr@yiii=\skip122
+\tr@xiv=\skip123
+\tr@swiv=\toks61
+\tr@yiv=\skip124
+\tr@xv=\skip125
+\tr@swv=\toks62
+\tr@yv=\skip126
+\tr@xvi=\skip127
+\tr@swvi=\toks63
+\tr@yvi=\skip128
+ maxtrills=6
+\o@xi=\skip129
+\o@yi=\skip130
+\o@swi=\toks64
+\o@xii=\skip131
+\o@yii=\skip132
+\o@swii=\toks65
+\o@xiii=\skip133
+\o@yiii=\skip134
+\o@swiii=\toks66
+\o@xiv=\skip135
+\o@yiv=\skip136
+\o@swiv=\toks67
+\o@xv=\skip137
+\o@yv=\skip138
+\o@swv=\toks68
+\o@xvi=\skip139
+\o@yvi=\skip140
+\o@swvi=\toks69
+
+maxoctlines=6
+\outmux=\write3
+\mulooseness=\count355
+\linegoal=\count356
+\l@eftrightbox=\box60
+\stringraise=\count357
+\stringnum=\count358
+\nslashes=\count359
+\tiny@hgt=\count360
+\inmux=\read2
+) (/usr/share/texmf-dist/tex/latex/musixtex/musixltx.tex
+MusiXLaTeX T.125 <8 April 2017>
+)) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count361
+\l__pdf_internal_box=\box61
+) (./POO.aux)
+\openout1 = `POO.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count362
+\scratchdimen=\dimen312
+\scratchbox=\box62
+\nofMPsegments=\count363
+\nofMParguments=\count364
+\everyMPshowfont=\toks70
+\MPscratchCnt=\count365
+\MPscratchDim=\dimen313
+\MPnumerator=\count366
+\makeMPintoPDFobject=\count367
+\everyMPtoPDFconversion=\toks71
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\openout3 = `POO.mx1'.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 13.
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 13.
+
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 15--87
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--87
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--87
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--87
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--87
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--87
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 88--115
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--115
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--115
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--115
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 116--144
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--144
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--144
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--367
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--367
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--367
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--367
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--367
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--367
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--367
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--367
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--367
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--367
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--367
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--367
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--367
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+[3{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [4]
+[5] [6]
+Underfull \hbox (badness 10000) in paragraph at lines 368--391
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 392--512
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 392--512
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Overfull \hbox (13.42912pt too wide) in paragraph at lines 392--512
+\OT1/cmr/m/n/10.95 La sin-taxis de una op-eraci^^Son de creaci^^Son de un nuevo
+ ob-jeto es: \OT1/cmr/bx/n/10.95 new Nom-bre-Clase (lista-par^^Sametros) 
+
+\hbox(8.2125+2.73749)x483.69687, glue set - 1.0 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 392--512
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 392--512
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 392--512
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 392--512
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+[8] [9]
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 6
+43.
+ (/usr/share/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 643.
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--879
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--879
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--879
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--879
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--879
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--879
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--879
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--879
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--879
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--879
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--879
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--879
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--879
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--879
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--879
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--879
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--879
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--879
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--879
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--879
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--879
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--879
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+[10] [11] [12] [13] [14] [15] [16]
+Underfull \hbox (badness 10000) in paragraph at lines 880--1055
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 880--1055
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 880--1055
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 880--1055
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 880--1055
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 880--1055
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 880--1055
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 880--1055
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+[17] [18] [19]
+Underfull \hbox (badness 10000) in paragraph at lines 1057--1090
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1091--1136
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+[20] [21]
+Underfull \hbox (badness 10000) in paragraph at lines 1174--1212
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 1213--1259
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1260--1314
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 1315--1375
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1315--1375
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+[24] [25]
+Underfull \hbox (badness 10000) in paragraph at lines 1386--1428
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1429--1471
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 1473--1499
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 1504--1536
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1504--1536
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1504--1536
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+[28]
+Overfull \hbox (7.35033pt too wide) in paragraph at lines 1545--1573
+\OT1/cmr/m/n/10.95 Hemos visto en la secci^^Son an-te-rior que el hacer uso de 
+una en-cap-su-laci^^Son ade-cuada re-duce el acoplamiento
+
+\hbox(7.60416+2.12917)x483.69687, glue set - 1.0 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1545--1573
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1545--1573
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1574--1604
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1574--1604
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+[29]
+Underfull \hbox (badness 10000) in paragraph at lines 1605--1647
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1605--1647
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1605--1647
+
+
+\hbox(0.0+0.0)x483.69687 []
+
+[30] [31] (./POO.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 5215 strings out of 475420
+ 61046 string characters out of 5776189
+ 1980187 words of memory out of 5000000
+ 27257 multiletter control sequences out of 15000+600000
+ 639372 words of font info for 209 fonts, out of 8000000 for 9000
+ 376 hyphenation exceptions out of 8191
+ 57i,6n,65p,452b,220s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
+r/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-su
+per/sfrm1095.pfb>
+Output written on POO.pdf (31 pages, 237223 bytes).
+PDF statistics:
+ 156 PDF objects out of 1000 (max. 8388607)
+ 101 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
